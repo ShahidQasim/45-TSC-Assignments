@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "dependencies": {
+    "@types/go": "^1.6.28"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
